@@ -15,5 +15,6 @@ In order to be able to use this, make sure you have **Python 3.4** or newer inst
 When using an application like this, there is always a risk of getting your Instagram account banned. In my personal experience, I've never had this happen to me, but there is always a risk. So, if you don't want to take any chances, I'd suggest creating a burner Instagram account in a different browser you can import cookies from.
 
 ### Limitations
--This program cannot download any deleted media or expired stories.
--So far, there is no way to see the download progress. No confirmation. No nothing. Once you click the "Download Profile" button, the program will appear frozen until the download is complete.
++This program cannot download any deleted media or expired stories.
+
++So far, there is no way to see the download progress. No confirmation. No nothing. Once you click the "Download Profile" button, the program will appear frozen until the download is complete.
